@@ -16,5 +16,6 @@ Yup, it is. Considering I haven't touched Flutter before, it isn't ;).
 
 ## Usage
 
-![App video](https://raw.githubusercontent.com/nexxucc/Basic-app/main/video.mp4)
+https://github.com/user-attachments/assets/f20939df-84d3-43b2-92d9-235cf681befd
+
 
