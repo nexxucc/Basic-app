@@ -1,17 +1,20 @@
-# flutter_application_1
+# A random word generator 
 
-A new Flutter project.
+This is my dive into app development using Flutter!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## FAQ
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Isn't this too basic?
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Basic-app
+Yup, it is. Considering I haven't touched Flutter before, it isn't ;).
+
+(PS: Keep watching my profile for my exciting journey into app dev!)
+
+
+
+## Usage
+
+![App video](https://raw.githubusercontent.com/nexxucc/Basic-app/main/video.mp4)
+
