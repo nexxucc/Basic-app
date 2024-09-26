@@ -14,7 +14,7 @@ Yup, it is. Considering I haven't touched Flutter before, it isn't ;).
 
 
 
-## Usage
+## Demo
 
 https://github.com/user-attachments/assets/f20939df-84d3-43b2-92d9-235cf681befd
 
